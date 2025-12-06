@@ -161,4 +161,3 @@ Shows **final performance** over several episodes:
 
 ## License
 For academic use in the Reinforcement Learning course.
-```
