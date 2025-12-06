@@ -1,0 +1,3 @@
+episodes=1200
+successes=1157
+maze_seed=42
